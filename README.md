@@ -10,3 +10,5 @@ User input from Inquirer using node.js
 # Test
 Run npm test to run jest
 
+# Usage 
+https://watch.screencastify.com/v/b6RWkDvM8L33EUNm6IQq
